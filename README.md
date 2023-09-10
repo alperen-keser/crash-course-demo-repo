@@ -8,3 +8,7 @@ After creating a repo, one should always start with a "README.md".
 ## Subheader
 
 Double hashtag is for "Subheader".
+
+## Local Development
+
+Open index.html in your browser.
